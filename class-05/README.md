@@ -37,5 +37,5 @@ The VPN protocol can be used in several ways; everyday computer users are likely
 
 ## Helpful Resources
 
-- [Configuring a Site-to-Site IPsec VPN](https://pfsense-docs.readthedocs.io/en/latest/vpn/ipsec/configuring-a-site-to-site-ipsec-vpn.html){:target="_blank"}
+- [Configuring a Site-to-Site IPsec VPN](https://docs.netgate.com/pfsense/en/latest/recipes/ipsec-s2s-psk.html){:target="_blank"}
 - [Troubleshooting IPsec VPNs](https://docs.netgate.com/pfsense/en/latest/troubleshooting/ipsec.html){:target="_blank"}
