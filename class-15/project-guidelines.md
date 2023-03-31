@@ -11,6 +11,8 @@ Your team has been assigned to assist with standardizing IT infrastructure for o
 Keep an eye on Canvas for assignments due this week. 
 - Remember to complete nightly Project Report assignments. These assignments are easy to forget as you get swept up in interesting project subject matter.
 - Necessities such as team agreement (conflict resolution, etc.) and project plan will be created in your Project Prep assignments. Instructor approval is required before progressing to the next Project Prep assignment.
+- You will need to submit a preliminary link to your deliverables for instructor review on day 3 of project week.
+- You will need to give give a practice presentation for your instructor on day 4 or project week (your instructors will schedule this). Make this as close as possible to how you plan to present on day 5 -- try not to break character, give assides or explanations, or engage in crosstalk. 
 - By demo day, you'll need these deliverables assembled:
   - Demo day slide deck
   - Project report
