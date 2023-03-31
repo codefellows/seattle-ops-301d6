@@ -11,6 +11,8 @@ Your team has been assigned to assist with standardizing IT infrastructure for o
 Keep an eye on Canvas for assignments due this week. 
 - Remember to complete nightly Project Report assignments. These assignments are easy to forget as you get swept up in interesting project subject matter.
 - Necessities such as team agreement (conflict resolution, etc.) and project plan will be created in your Project Prep assignments. Instructor approval is required before progressing to the next Project Prep assignment.
+- You will need to submit a preliminary link to your deliverables for instructor review on day 3 of project week.
+- You will need to give give a practice presentation for your instructor on day 4 or project week (your instructors will schedule this). Make this as close as possible to how you plan to present on day 5 -- try not to break character, give assides or explanations, or engage in crosstalk. 
 - By demo day, you'll need these deliverables assembled:
   - Demo day slide deck
   - Project report
@@ -40,12 +42,30 @@ Practice and prepare your technical demonstrations in advance of demo day to rul
 General slide deck guidelines:
 - The presentation slides must use the aesthetic formatting of the [template slide deck](https://docs.google.com/presentation/d/1NeXKKEpjK2DDme8EwlZBsJndUqIgGYzWrY6FAYtNTf0/edit).
   - Remember to create your own copy of the template and do not edit the template itself.
-- Ensure your timing is no more than 25 minutes long, including some time at the end for questions. 
+- Ensure your timing is no more than 20 minutes long, including some time at the end for questions. 
 - Present from the final product, deployed site, or official documentation that you produce.
 - Each member should introduce themselves with their personal pitch.   
   - The "About Us" page provides a great backdrop for this portion of the presentation.
 
 Each member of the team must have a speaking part. It is okay to use presenter notes/outlines but remember to avoid reading notes verbatim and to present naturally as if speaking to a friend.
+
+The appropriate dress code is business casual - not too formal and not too casual. 
+
+Be cognizant of the environment you're presenting from. A clean backdrop, good lighting, and quality mic and webcam go a long ways.
+
+In addition to the scheduled practice session, the team is encouraged to continue to practice on their own. Keep track of the time and adjust accordingly. Practice transitioning speaking segments.
+
+Speak clearly and do not use slang or profanity. Take it seriously and be professional.
+
+## Grading
+
+Each team member's grade is split between their individual effort, and the project's technical merit.
+
+Individual effort is graded based on contributions to project deliverables, and professionalism in the presentation.
+
+Technical merit of the project overall is evaluated according the requirements. The Project Grade is a combination of the Presentation (55%) and the Deliverables (45%)
+
+### Presentation (55%)
 
 Components of the presentation must include:
 
@@ -63,7 +83,7 @@ Components of the presentation must include:
   - C1. Implementation of virtual private networking (VPN)
   - C2. Network access controls system
     - How does your system achieve AAA network security management principles?
-- D. Powershell script that automates DC deployment (5 min)
+- D. Powershell scripts that automates DC deployment (5 min)
   - D1. Present the scenario org chart
   - D2. Script should demonstrably perform:
     - Assigns the Windows Server VM a static IPv4 address 
@@ -79,39 +99,60 @@ Components of the presentation must include:
   - E3. A portion of the outcome that each team member is particularly proud of
 - F. Q&A (5 min)
 
-The appropriate dress code is business casual - not too formal and not too casual. 
+### Deliverables (45%)
 
-Be cognizant of the environment you're presenting from. A clean backdrop, good lighting, and quality mic and webcam go a long ways.
+Submit to instructor a single link to your Github Org. All team members are to contribute an equal share to documentation corresponding to the components they worked on and should clearly indicate which components each contributed to in their individual project submission notes.
 
-In addition to the scheduled practice session, the team is encouraged to continue to practice on their own. Keep track of the time and adjust accordingly. Practice transitioning speaking segments.
-
-Speak clearly and do not use slang or profanity. Take it seriously and be professional.
-
-## Grading
-
-Each team member's grade is split between their individual effort, and the project's technical merit.
-
-Individual effort is graded based on contributions to project deliverables, and professionalism in the presentation.
-
-Technical merit of the project overall is evaluated according the requirements.
-
-### Deliverables
-
-Submit to instructor a single "Project Report" Google Doc. All team members are to contribute an equal share to documentation corresponding to the components they worked on and should clearly indicate which components each contributed to in their individual project submission notes.
-
-Here is a list of requirements the GlobeX VP of Special Projects would like to see addressed in your final project report:
-
-- G. Network design
-  - G1. A network topology diagram of your systems architecture design, pasted into your Google Doc.
-  - G2. All components must be labeled, and network diagram must be presentable (straight lines) and free of defects/typographical issues. Take your time to create a quality network diagram; do not rush!
-  - G3. Explain and justify your network diagram in detail. Clearly indicate what devices are hosting network services, like DHCP, DNS, etc.
-- H. How the core network services will be administered.
-  - H1. Provide network configuration details:
-    - DHCP range
-    - Subnet mask
-    - IP address of all devices clearly indicated on network diagram
-- I. How will OS version control be handled?
-  - I1. Describe in detail how OS version control will be handled centrally from a server-based solution. Hint: Read [Windows Server Update Services](https://docs.microsoft.com/en-us/windows-server/administration/windows-server-update-services/get-started/windows-server-update-services-wsus){:target="_blank"}.
+- GitHub Repository (10%)
+  - A repo under an appropriately name Github "Organization"
+  - Sufficient documentation in the top level README to explain to a stranger who you are, what this project was about, and how all of the material in the repo pertains to it.
+    - This README should be:
+      - Attractively formatted
+      - Include links to relevant files in the repo
+      - Include links to each of your own Github accounts AND LinkedIn accounts
+  - All other deliverables should be included as files in this repo
+- Presentation Material (5%)
+  - Slide deck, as a PDF
+  - A link to the video of your presentation (when it becomes available)
+- Network design (20%)
+  - A network topology diagram of your systems architecture design.
+    - All components must be labeled, and network diagram must be presentable (straight lines) and free of defects/typographical issues. Take your time to create a quality network diagram; do not rush!
+    - Clearly indicate what devices are hosting network services, like DHCP, DNS, etc.
+  - A clear, written explaination and justification your network design.
+    - Include a table or chart of network infrustructure and configuration details (yes, this will overlap with your topology -- you must document your network in both ways):
+      - Subnets and their uses
+        - Include Subnet Masks, CIDR addresses, etc.
+      - DHCP ranges
+        - Lease pools
+        - Ranges of addresses reserved for particular uses
+      - Firewall rules
+      - Roles and IP address of all important devices (everything but endpoints)
+- SOP and Policy Documentation (10%)
+  - SOP Requirements
+    - Compose thorough SOPs for each of the following:
+      - Purpose
+      - Scope
+      - Responsibilities
+      - Prerequisites
+      - Procedures
+      - References
+      - Definitions
+      - Revision History (including who contributed to each revision)
+    -  For **each** SOP included in your MSP SOW deliverable, attribute authorship to the team member
+    -  SOPs can either be:
+      - Worked on as google docs and submitted as PDFs
+      - Worked on and submitted as Markdown files
+    - SOPs should share a common format (see [SOP-example-template](./SOP-example-template.md))
+    - SOPs should be submitted either as individual documents or as a single document (either PDF or Markdown) with a linked table of contents
+  - Compose thorough SOPs for each of the following:
+    - How will network account needs be handled for employees being onboarded?
+    - How will network account needs be handled for employees being terminated?
+    - How will OS version control be handled?
+      - Hint: Read [Windows Server Update Services](https://docs.microsoft.com/en-us/windows-server/administration/windows-server-update-services/get-started/windows-server-update-services-wsus){:target="_blank"}.
+    - How will you ensure users can access their files from any domain attached system?
+    - How will you monitor network traffic?
+    - How will you manage change to the network (such as hardware, software, or configuration changes) while minimizing network disruptions and downtime?
+    - How will you manage and maintain network security?
 
 
 Teams are encouraged to ask their instructional team for feedback on project report, slide deck, and other deliverables. The client point of contact should be contacted via email regarding scenario-specific scoping.
