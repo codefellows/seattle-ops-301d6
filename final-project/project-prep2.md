@@ -20,16 +20,13 @@ Start a new Google Doc, and include the following components in your system sele
 
 - [201 Scenario](./scenarios/201-scenario.md)
 - 301 Scenario
-- 401 Scenario
+- 401 Scenario -->
 
 ## Project Requirements
 
-Your instructor will provide the project guidelines and send you the scenario unique to your team. Some aspects of the project are left up to you to decide how to approach.
+Check out the [project guidelines](https://github.com/codefellows/seattle-ops-301d6/blob/main/class-15/project-guidelines.md) for requirements.
 
-- [201 Project Requirements](./project-requirements/201-project-requirements.md)
-- [301 Project Requirements](./project-requirements/301-project-requirements.md)
-- [401 Midterm Project Requirements](./project-requirements/401-midterm-project-requirements.md)
-- [401 Final Project Requirements](./project-requirements/401-final-project-requirements.md) -->
+Your instructor will send you the scenario unique to your team. Some aspects of the project are left up to you to decide how to approach.
 
 ## Systems Selection
 
