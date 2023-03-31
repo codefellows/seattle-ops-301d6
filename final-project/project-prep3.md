@@ -42,21 +42,23 @@ Please use one of these tools listed below:
 
 Build out sections to help organize tasks. Try using labels such as “To Do”, “In Progress”, “Done” and “Stretch Goals”. Organize your PM Tool however you think is best for your team!
 
-## Systems Selection
+## Presentation Deck
 
-Review the project guidelines and scenario. Meet as a team and decide what systems, platforms, or tools you'll be using this project. Each should represent a clear, logical solution to a problem the client company is facing.
+Make a single copy of the Presentation Deck Template{:target="_blank"}. Share your copy will all team members, so everyone is working from the same slideshow.
 
-Create a high-level list of systems, platforms, or tools you’re going to implement for your client. For each, explain:
+Link the shared doc in your PM tool.
 
-1. How does it fit into your scenario's requirements?
-1. What problem or pain point does it solve? In other words, what value does this add to your client?
-  - Keep it high level without going into too much detail, 3-4 sentences is enough.
-1. Minimum Viable Product (MVP) definition.
-  - What is the minimum required for you to present on demo day?
+The presentation should follow exactly from the template slide deck{:target="_blank"}. Ensure your timing is no more than 15 minutes long, including some time at the end for questions.
 
-During your pitch, your instructor will help you scope your project. Some features may become MVP and some may become stretch goals.
+Each member should introduce themselves with their personal pitch.
 
-Once you are ready, find your instructor and pitch your solution ideas.
+Each member of the team must have at least one demo and one speaking part. It is okay to use notes if you are nervous about forgetting what to talk about. Some of the areas to discuss include:
+  - An introduction of the client company and their requests and needs.
+  - A demonstration of the solutions with an explanation of the WHAT and WHY behind it.
+  - A technical obstacle or two and how those obstacles were overcome.
+  - A portion of the final solution that each team member is particularly proud of.
+
+See the [Project Guidelines](../class-15/project-guidelines.md) for list of required components.
 
 ## Submission Instructions
 
