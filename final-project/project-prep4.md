@@ -30,6 +30,15 @@ Create some initial diagrams of any aspects of your solution that you can plan a
 
 Link these assets in your GitHub Documentation repo for review during daily stand-ups.
 
+## SOPs
+
+Fill in your PM Tool with SOPs that need to be written, then evenly distribute the SOPS to different team members to complete.
+
+- For each SOP included in your MSP SOW deliverable, attribute authorship to the team member.
+- SOPs can either be:
+  - Worked on as Google Docs and committed as PDFs in the documentation repo on the GitHub Org.
+  - Worked on and committed as Markdown files in the documentation repo on the GitHub Org.
+
 ## Submission Instructions
 This is a group submission. Only one person must submit for group credit.
 
