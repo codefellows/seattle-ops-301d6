@@ -44,11 +44,11 @@ Build out sections to help organize tasks. Try using labels such as “To Do”,
 
 ## Presentation Deck
 
-Make a single copy of the Presentation Deck Template{:target="_blank"}. Share your copy will all team members, so everyone is working from the same slideshow.
+Make a single copy of the [Ops Presentation Deck Template](https://docs.google.com/presentation/d/1iv8uB6H0P49RN9IF6cYA5lpfiuL4WBGQqcbEu6Q4JAA/edit?usp=sharing){:target="_blank"}. Share your copy will all team members, so everyone is working from the same slideshow.
 
 Link the shared doc in your PM tool.
 
-The presentation should follow exactly from the template slide deck{:target="_blank"}. Ensure your timing is no more than 15 minutes long, including some time at the end for questions.
+The presentation should follow exactly from the template slide deck. Ensure your timing is no more than 15 minutes long, including some time at the end for questions.
 
 Each member should introduce themselves with their personal pitch.
 
