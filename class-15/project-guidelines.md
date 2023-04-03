@@ -128,8 +128,8 @@ Submit to instructor a single link to your Github Org. All team members are to c
       - Firewall rules
       - Roles and IP address of all important devices (everything but endpoints)
 - SOP and Policy Documentation (10%)
-  - SOP Requirements
-    - Compose thorough SOPs for each of the following:
+  - SOP Requirements:
+    - Each SOP should include the following sections:
       - Purpose
       - Scope
       - Responsibilities
@@ -138,8 +138,8 @@ Submit to instructor a single link to your Github Org. All team members are to c
       - References
       - Definitions
       - Revision History (including who contributed to each revision)
-    -  For **each** SOP included in your MSP SOW deliverable, attribute authorship to the team member
-    -  SOPs can either be:
+    - For **each** SOP included in your MSP SOW deliverable, attribute authorship to the team member
+    - SOPs can either be:
       - Worked on as google docs and submitted as PDFs
       - Worked on and submitted as Markdown files
     - SOPs should share a common format (see [SOP-example-template](./SOP-example-template.md))
