@@ -80,7 +80,7 @@ Components of the presentation must include:
     - Design philosophy
     - Remote access considerations
 - C. Improvements made to network infrastructure to accommodate remote employees and site-to-site connectivity (5 min)
-  - C1. Implementation of virtual private networking (VPN)
+  - C1. Implementation of virtual private networking (VPN) and demonstrate successful resource access
   - C2. Network access controls system
     - How does your system achieve AAA network security management principles?
 - D. Powershell scripts that automates DC deployment (5 min)
