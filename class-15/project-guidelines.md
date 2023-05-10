@@ -118,8 +118,8 @@ Submit to instructor a single link to your Github Org. All team members are to c
   - A network topology diagram of your systems architecture design.
     - All components must be labeled, and network diagram must be presentable (straight lines) and free of defects/typographical issues. Take your time to create a quality network diagram; do not rush!
     - Clearly indicate what devices are hosting network services, like DHCP, DNS, etc.
-  - A clear, written explaination and justification your network design.
-    - Include a table or chart of network infrustructure and configuration details (yes, this will overlap with your topology -- you must document your network in both ways):
+  - A clear, written explanation and justification your network design.
+    - Include a table or chart of network infrastructure and configuration details (yes, this will overlap with your topology -- you must document your network in both ways):
       - Subnets and their uses
         - Include Subnet Masks, CIDR addresses, etc.
       - DHCP ranges
